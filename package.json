@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ksachdeva/angular2-swing.git"
+    "url": "git+https://github.com/ZloyRob/angular2-swing.git"
   },
   "author": "Kapil Sachdeva <ksachdeva17@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ksachdeva/angular2-swing/issues"
+    "url": "https://github.com/ZloyRob/angular2-swing/issues"
   },
-  "homepage": "https://github.com/ksachdeva/angular2-swing#readme",
+  "homepage": "https://github.com/ZloyRob/angular2-swing#readme",
   "dependencies": {
     "swing": "ZloyRob/swing"
   },
