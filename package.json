@@ -1,5 +1,5 @@
 {
-  "name": "angular2-swing",
+  "name": "zloyrob-angular2-swing",
   "version": "0.12.0",
   "description": "Angular 2 Component for Swing (Tinder style cards)",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ZloyRob/angular2-swing#readme",
   "dependencies": {
-    "swing": "ZloyRob/swing"
+    "zloyrob-swing": "^3.1.1"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",
